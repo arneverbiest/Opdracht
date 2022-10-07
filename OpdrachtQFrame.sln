@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpdrachtQFrame", "OpdrachtQFrame\OpdrachtQFrame.csproj", "{4EBFF210-4591-4CD4-A7E9-B33DF75D8AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBFF210-4591-4CD4-A7E9-B33DF75D8AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBFF210-4591-4CD4-A7E9-B33DF75D8AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBFF210-4591-4CD4-A7E9-B33DF75D8AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBFF210-4591-4CD4-A7E9-B33DF75D8AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F66ED4F-2217-4311-9329-324EA9416388}
+	EndGlobalSection
+EndGlobal
